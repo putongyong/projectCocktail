@@ -23,13 +23,13 @@ CocktailRoom is a full stack website designed to showcase my proficiency in Java
 2. Navigate to the frontend directory and run `npm install` to install frontend dependencies.
 3. Navigate to the backend directory and set up a virtual environment using `python -m venv venv`.
 4. Activate the virtual environment with `source venv/bin/activate` (Linux/macOS) or `venv\Scripts\activate` (Windows).
-5. Install backend dependencies with `pip install -r requirements.txt`.
+5. Install backend dependencies with `pip3 install -r requirements.txt`.
+6. If you have installed Docker Desktop, run `docker-compose build` then run `docker-compose up` 
 
 ## Usage
 
 1. Start the backend server with `python manage.py runserver`.
-2. In the frontend directory, start the development server with `npm start`.
-3. Access the website at `http://localhost:3000` in your browser.
+2. Access the website at `http://localhost:8000` in your browser.
 
 ## Folder Structure
 
