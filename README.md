@@ -9,10 +9,6 @@ CocktailRoom is a full stack website designed to showcase my proficiency in Java
 - Python
 - Django
 
-## Live Demo
-
-While I'm in the process of deploying the application by integrating Nginx and Gunicorn with Docker, I've prepared some images from the website running in my local environment to provide a simple live demo.
-
 ## Getting Started
 
 ### Prerequisites
