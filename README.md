@@ -2,6 +2,10 @@
 
 CocktailRoom is a full stack website designed to showcase my proficiency in Javascript and Python development. This platform features a diverse array of cocktails and utilizes a combination of technologies to provide a seamless user experience. The frontend is built using the React framework, along with the `react-router-dom` library for efficient DOM control and URL management. On the backend, Python using the Django framework takes the lead, managing the database, media files, and data loading for the frontend. By separating these components, the website's maintainability is greatly enhanced.
 
+## Live Demo (Coming Soon)
+
+Please note that I am currently working on deploying the application by integrating Nginx and Gunicorn with Docker. As a result, the live website is not yet available. I appreciate your patience, and I will provide the live website as soon as it's ready. 
+
 ## Technologies Used
 
 - React
