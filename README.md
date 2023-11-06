@@ -4,7 +4,7 @@ CocktailRoom is a full stack website designed to showcase my proficiency in Java
 
 ## Live Demo (Coming Soon)
 
-Please note that I am currently working on deploying the application by integrating Nginx and Gunicorn with Docker. As a result, the live website is not yet available. I appreciate your patience, and I will provide the live website as soon as it's ready. 
+Please note that I am currently working on deploying the application by integrating Nginx and Gunicorn with Docker. As a result, the live website is not yet available. I appreciate your patience, and I will provide the live website as soon as it's ready. In the meantime, you can explore the front-end part of my web in order to have a picture of it: https://cocktailroom.netlify.app/
 
 ## Technologies Used
 
